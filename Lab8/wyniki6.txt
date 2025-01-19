@@ -1,0 +1,9 @@
+//Zad 4.1
+Liczba kobiet: 489
+Liczba mężczyzn: 511
+
+
+//zad 4.2
+Liczba osób urodzonych w listopadzie: 18
+
+//zad 4.3
